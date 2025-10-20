@@ -1,0 +1,5 @@
+.*
+*.identifier
+*.json
+*.pkl
+adapters/__pycache__/
